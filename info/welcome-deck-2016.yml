@@ -1,0 +1,18 @@
+---
+object: set
+id: b3a0e4a1-5f2c-44e1-8558-61e6dcd88fda
+code: w16
+mtgo_code: w16
+arena_code: w16
+tcgplayer_id: 1765
+name: Welcome Deck 2016
+uri: https://api.scryfall.com/sets/b3a0e4a1-5f2c-44e1-8558-61e6dcd88fda
+scryfall_uri: https://scryfall.com/sets/w16
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aw16&unique=prints
+released_at: '2016-04-08'
+set_type: starter
+card_count: 16
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/w16.svg?1694404800

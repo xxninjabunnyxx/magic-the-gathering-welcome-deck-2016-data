@@ -1,0 +1,119 @@
+---
+object: card
+id: da35e1ce-cbfa-499d-b4e0-5857b1587506
+oracle_id: 1c9cf20c-51e4-4a87-b9f8-231b6baf5d6b
+multiverse_ids:
+- 413372
+mtgo_id: 60496
+mtgo_foil_id: 60497
+tcgplayer_id: 116794
+cardmarket_id: 289541
+name: Sphinx of Magosi
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/da35e1ce-cbfa-499d-b4e0-5857b1587506
+scryfall_uri: https://scryfall.com/card/w16/6/sphinx-of-magosi?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/a/da35e1ce-cbfa-499d-b4e0-5857b1587506.jpg?1562941084
+  normal: https://cards.scryfall.io/normal/front/d/a/da35e1ce-cbfa-499d-b4e0-5857b1587506.jpg?1562941084
+  large: https://cards.scryfall.io/large/front/d/a/da35e1ce-cbfa-499d-b4e0-5857b1587506.jpg?1562941084
+  png: https://cards.scryfall.io/png/front/d/a/da35e1ce-cbfa-499d-b4e0-5857b1587506.png?1562941084
+  art_crop: https://cards.scryfall.io/art_crop/front/d/a/da35e1ce-cbfa-499d-b4e0-5857b1587506.jpg?1562941084
+  border_crop: https://cards.scryfall.io/border_crop/front/d/a/da35e1ce-cbfa-499d-b4e0-5857b1587506.jpg?1562941084
+mana_cost: "{3}{U}{U}{U}"
+cmc: 6.0
+type_line: Creature — Sphinx
+oracle_text: |-
+  Flying
+  {2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.
+power: '6'
+toughness: '6'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b3a0e4a1-5f2c-44e1-8558-61e6dcd88fda
+set: w16
+set_name: Welcome Deck 2016
+set_type: starter
+set_uri: https://api.scryfall.com/sets/b3a0e4a1-5f2c-44e1-8558-61e6dcd88fda
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aw16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/w16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/da35e1ce-cbfa-499d-b4e0-5857b1587506/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1c9cf20c-51e4-4a87-b9f8-231b6baf5d6b&unique=prints
+collector_number: '6'
+digital: false
+rarity: rare
+flavor_text: '"A riddle is nothing more than a trap for small minds, baited with the
+  promise of understanding."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: James Ryman
+artist_ids:
+- 3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5
+illustration_id: 2ccd4020-0098-4ed1-abfd-ae2c346cfbe2
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- starterdeck
+edhrec_rank: 9994
+penny_rank: 6435
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413372
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sphinx+of+Magosi&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sphinx+of+Magosi&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sphinx+of+Magosi
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116794?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sphinx+of+Magosi&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/60496?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
